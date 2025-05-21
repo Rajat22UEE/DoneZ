@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "ToDo_list",
-  description: "",
+  description: "Manage your task by todo list",
 };
 
 export default function RootLayout({ children }) {
